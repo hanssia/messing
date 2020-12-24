@@ -11,9 +11,12 @@ I'm fooling around here.
 
 
 It hurt a bit.
+<<<<<<< HEAD
 
 edit one
 
 edit two
 
 edit three
+=======
+>>>>>>> a49ffbd4868c0f8a310a3cddd6fa1fac8a1a5111
